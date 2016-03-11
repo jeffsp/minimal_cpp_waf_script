@@ -1,8 +1,8 @@
-# waf wscript
+# C++ waf wscript
 
 Minimal waf script for C++ programs
 
-Contains support for multithreading and debug/release builds
+Contains support for C++11, multi-threading, and debug/release builds
 
 # Examples
 
